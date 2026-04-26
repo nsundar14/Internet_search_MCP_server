@@ -1,0 +1,4 @@
+fastmcp
+duckduckgo-search
+requests
+httpx
